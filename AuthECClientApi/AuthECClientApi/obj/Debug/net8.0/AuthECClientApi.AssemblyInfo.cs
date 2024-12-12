@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthECClientApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9800c78d11e752bd9d005f29babcfacdd2893025")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthECClientApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthECClientApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
